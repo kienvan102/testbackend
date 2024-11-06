@@ -1,6 +1,6 @@
-# Kanban Ticket Management Application
+# Kanban Ticket Management Application BACKEND
 
-This is a Kanban ticket management web application with a **Golang** backend (using **Gin**), a **PostgreSQL** database, and a **React** frontend. This application allows you to create and view Kanban-style tickets.
+This is a Kanban ticket management web application with a **Golang** backend (using **Gin**), a **PostgreSQL** database
 
 ## Features
 
